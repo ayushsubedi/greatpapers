@@ -1,5 +1,7 @@
 # Great Papers
 
+- [x] 1976, ["Time Series Forecasting using ARIMA Model"](https://www.sciencedirect.com/science/article/abs/pii/S0304407681000069) by Box and Jenkins
+- [x] 1988, ["A Theory of the Learnable"](https://www.jstor.org/stable/20012634) by Valiant
 - [x] 1987, ["Pruning Decision Trees" by J. Ross Quinlan](https://link.springer.com/article/10.1007/BF00116251)
 - [x] 1990, ["Recurrent Neural Networks" by Elman](https://crl.ucsd.edu/~elman/Papers/fsit.pdf)
 - [x] 1995, ["Support Vector Machines" by Corinna Cortes and Vladimir Vapnik](https://link.springer.com/article/10.1023/A:1022627411411)
@@ -8,6 +10,8 @@
 - [x] 1998, ["Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/the-book-2nd.html)
 - [x] 1998, ["A Few Useful Things to Know About Naive Bayes" by Andrew McCallum and Kamal Nigam](https://people.cs.umass.edu/~mccallum/papers/naive-bayes-ijcaiws99.pdf)
 - [x] 2001, ["The Random Forests Algorithm" by Leo Breiman](https://link.springer.com/article/10.1023/A:1010933404324)
+- [x] 2001, ["Statistical Modeling: The Two Cultures"](https://projecteuclid.org/euclid.ss/1009213726) by Breiman
+- [x] 2002, ["SMOTE: Synthetic Minority Over-sampling Technique"](https://www.jair.org/index.php/jair/article/view/10302) by Chawla et al.
 - [x] 2003, ["A Neural Probabilistic Language Model" by Yoshua Bengio, Réjean Ducharme, Pascal Vincent, and Christian Jauvin](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - [ ] 2003, ["LDA: Latent Dirichlet Allocation" by David M. Blei, Andrew Y. Ng, and Michael I. Jordan](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 - [x] 2003, ["An Introduction to Variable and Feature Selection" by Isabelle Guyon and Andre Elisseeff](https://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
@@ -27,6 +31,9 @@
 - [x] 2013, ["Efficient Estimation of Word Representations in Vector Space" by Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean](https://arxiv.org/abs/1301.3781)
 - [ ] 2013, ["Distributed Representations of Words and Phrases and their Compositionality" by Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean](https://arxiv.org/abs/1310.4546)
 - [ ] 2013, ["Variational Autoencoders" by Kingma and Welling](https://arxiv.org/abs/1312.6114)
+- [x] 2013, ["Efficient Estimation of Word Representations in Vector Space"](https://arxiv.org/abs/1301.3781) by Mikolov et al.
+- [x] 2014, ["Adam: A Method for Stochastic Optimization"](https://arxiv.org/abs/1412.6980) by Kingma and Ba
+- [x] 2014, ["Generative Adversarial Nets"](https://arxiv.org/abs/1406.2661) by Goodfellow et al.
 - [x] 2014, ["A Tutorial on Principal Component Analysis" by Jonathon Shlens](https://arxiv.org/abs/1404.1100)
 - [ ] 2014, ["Generative Modeling by Estimating Gradients of the Data Distribution" by Bengio et al.](https://arxiv.org/abs/1406.1096)
 - [ ] 2014, ["Generative Adversarial Networks" by Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio](https://arxiv.org/abs/1406.2661)
@@ -43,6 +50,10 @@
 - [ ] 2015, ["U-Net: Convolutional Networks for Biomedical Image Segmentation" by Olaf Ronneberger, Philipp Fischer, and Thomas Brox](https://arxiv.org/abs/1505.04597)
 - [ ] 2015, ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks" by Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun](https://arxiv.org/abs/1506.01497)
 - [x] 2015, ["Deep Residual Learning for Image Recognition" by Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun](https://arxiv.org/abs/1512.03385)
+- [x] 2015, ["A Neural Algorithm of Artistic Style"](https://arxiv.org/abs/1508.06576) by Gatys et al.
+- [x] 2015, ["Show, Attend and Tell: Neural Image Caption Generation with Visual Attention"](https://arxiv.org/abs/1502.03044) by Xu et al.
+- [x] 2016, ["You Only Look Once: Unified, Real-Time Object Detection"](https://arxiv.org/abs/1506.02640) by Redmon et al.
+- [x] 2016, ["Deep Neural Networks for YouTube Recommendations"](https://dl.acm.org/doi/10.1145/2959100.2959190) by Covington et al.
 - [ ] 2016, ["Neural Architecture Search with Reinforcement Learning" by Zoph and Le](https://arxiv.org/abs/1611.01578)
 - [ ] 2016, ["Wavenet: A Generative Model for Raw Audio" by van den Oord et al.](https://arxiv.org/abs/1609.03499)
 - [ ] 2017, ["Proximal Policy Optimization Algorithms" by Schulman et al.](https://arxiv.org/abs/1707.06347)
@@ -50,6 +61,8 @@
 - [ ] 2017, ["Graph Convolutional Networks" by Kipf and Welling](https://arxiv.org/abs/1609.02907)
 - [ ] 2017, ["Dynamic Routing Between Capsules" by Hinton et al.](https://arxiv.org/abs/1710.09829)
 - [ ] 2017, ["A Survey of Active Learning" by Settles](https://ieeexplore.ieee.org/document/8233097)
+- [x] 2017, ["SHAP: SHapley Additive exPlanations"](https://arxiv.org/abs/1705.07874) by Lundberg and Lee
+- [x] 2018, ["Identifying the Context Shift between Test Benchmarks and Production Data"](https://dl.acm.org/doi/10.1145/3287560.3287598) by Sculley et al.
 - [x] 2018, ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" by Devlin et al.](https://arxiv.org/abs/1810.04805)
 - [x] 2018, ["GPT: Improving Language Understanding by Generative Pre-training" by Radford et al.](https://openai.com/research/language-unsupervised)
 - [ ] 2018, ["StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks" by Karras et al.](https://arxiv.org/abs/1812.04948)
@@ -58,6 +71,12 @@
 - [x] 2019, ["Language Models Are Few-Shot Learners" by Brown et al.](https://arxiv.org/abs/2005.14165)
 - [ ] 2020, ["GPT-3: Language Models are Few-Shot Learners" by Brown et al.](https://arxiv.org/abs/2005.14165)
 - [x] 2020, ["DALL·E: Zero-Shot Text-to-Image Generation" by Ramesh et al.](https://arxiv.org/abs/2102.12092)
+- [x] 2020, ["Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks"](https://arxiv.org/abs/2005.11401) by Lewis et al.
+- [x] 2020, ["Automatic Text Summarization of COVID-19 Medical Research Articles using BERT and GPT-2"](https://ieeexplore.ieee.org/document/9302901) by Al-Shboul et al.
+- [x] 2020, ["Data Variability in the Imputation Quality of Missing Data"](https://arxiv.org/abs/2005.01156) by Zhang et al.
+- [x] 2020, ["Insider Threat Detection Based on Users’ Mouse Movements and Keystrokes Behavior"](https://ieeexplore.ieee.org/document/9292506) by Ahmed et al.
+- [x] 2020, ["An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"](https://arxiv.org/abs/2010.11929) by Dosovitskiy et al.
+- [x] 2021, ["LoRA: Low-Rank Adaptation of Large Language Models"](https://arxiv.org/abs/2106.09685) by Hu et al.
 - [ ] 2021, ["CLIP: Learning Transferable Visual Models from Natural Language Supervision" by Radford et al.](https://arxiv.org/abs/2103.00020)
 - [ ] 2021, ["PaLM: Scaling Language Modeling with Pathways" by Chowdhery et al.](https://arxiv.org/abs/2204.02311)
 - [ ] 2022, ["Diffusion Models Beat GANs on Image Synthesis" by Dhariwal and Nichol](https://arxiv.org/abs/2105.05233)
@@ -65,4 +84,7 @@
 - [ ] 2022, ["Chinchilla: Training a 70B Chatbot" by Hoffmann et al.](https://arxiv.org/abs/2203.15556)
 - [ ] 2022, ["LaMDA: Language Models for Dialog Applications" by Thoppilan et al.](https://arxiv.org/abs/2201.08239)
 - [ ] 2022, ["Flamingo: A Visual-Language Model with Multimodal Few-Shot Learning" by Alayrac et al.](https://arxiv.org/abs/2204.14198)
+- [x] 2022, ["Unlocking the Potential of Large Language Models for Explainable Recommendations"](https://arxiv.org/abs/2206.08813) by Zhou et al.
+- [x] 2023, ["LLaMA: Open and Efficient Foundation Language Models"](https://arxiv.org/abs/2302.13971) by Touvron et al.
 - [x] 2023, ["OpenAI GPT-4 Technical Report"](https://arxiv.org/abs/2303.08774)
+- [x] 2024, ["Generative AI Security: Challenges and Countermeasures"](https://arxiv.org/abs/2403.01323)
